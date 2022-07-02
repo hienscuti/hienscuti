@@ -1,33 +1,3 @@
-/* ======================================
-	
-	Template: Moto - App Landing Page
-	Css Name: Main Js
-	Version: 1
-	Design and Developed by: Hastech
-
-========================================= */
-
-/*================================================
-[  Table of contents  ]
-================================================
-
-	01. Menu Navvar
-	02. Nav Var Remove Add
-	03. Scrool Spy
-	04. Sticky Header
-	05. Counter Up
-	06. Testimonial Owl Active
-	07. Mailchimp Active
-	08. Magnific Popup Video
-	09. Slider Full Carousel
-	10. Slider Text Carousel
-	11. YTPlayer Active
-	12. Screenshot Slider
-	13. scrollUp
-	14. Wow JS
-	15. Ajax Contact Form
-	
-================================================*/
 
 (function ($) {
 	"use strict";
